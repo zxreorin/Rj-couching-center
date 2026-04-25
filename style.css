@@ -23,7 +23,7 @@ body {
       rgba(0,0,0,0.6),
       rgba(0,0,0,0.7)
     ),
-    url("images/students.jpg");
+    url("students.jpg");
 
   background-size: cover;
   background-position: center;
@@ -37,7 +37,7 @@ body {
   height: 120px;
   margin-bottom: 15px;
 
-  background-image: url("images/class.jpg");
+  background-image: url("class.jpg");
   background-size: cover;
   background-position: center;
 }
